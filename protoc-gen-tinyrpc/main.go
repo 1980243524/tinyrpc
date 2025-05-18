@@ -90,7 +90,7 @@ func generateCli(plugin *protogen.Plugin) error {
 		t.P(pkg)
 		t.P()
 		importCode := `import (
-		"github.com/zehuamama/tinyrpc"
+		"github.com/1980243524/tinyrpc"
 		"net"
 		)`
 		t.P(importCode)

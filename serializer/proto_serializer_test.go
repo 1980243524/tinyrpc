@@ -8,8 +8,8 @@ import (
 	"errors"
 	"testing"
 
+	pb "github.com/1980243524/tinyrpc/test.data/message"
 	"github.com/stretchr/testify/assert"
-	pb "github.com/zehuamama/tinyrpc/test.data/message"
 )
 
 type test struct{}

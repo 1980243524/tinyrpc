@@ -11,9 +11,9 @@ import (
 	"net/rpc"
 	"sync"
 
-	"github.com/zehuamama/tinyrpc/compressor"
-	"github.com/zehuamama/tinyrpc/header"
-	"github.com/zehuamama/tinyrpc/serializer"
+	"github.com/1980243524/tinyrpc/compressor"
+	"github.com/1980243524/tinyrpc/header"
+	"github.com/1980243524/tinyrpc/serializer"
 )
 
 type reqCtx struct {

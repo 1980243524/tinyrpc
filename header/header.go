@@ -9,7 +9,7 @@ import (
 	"errors"
 	"sync"
 
-	"github.com/zehuamama/tinyrpc/compressor"
+	"github.com/1980243524/tinyrpc/compressor"
 )
 
 const (

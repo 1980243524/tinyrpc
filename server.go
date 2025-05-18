@@ -9,8 +9,8 @@ import (
 	"net"
 	"net/rpc"
 
-	"github.com/zehuamama/tinyrpc/codec"
-	"github.com/zehuamama/tinyrpc/serializer"
+	"github.com/1980243524/tinyrpc/codec"
+	"github.com/1980243524/tinyrpc/serializer"
 )
 
 // Server rpc server based on net/rpc implementation

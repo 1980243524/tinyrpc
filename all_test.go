@@ -9,10 +9,10 @@ import (
 	"reflect"
 	"testing"
 
+	"github.com/1980243524/tinyrpc/compressor"
+	js "github.com/1980243524/tinyrpc/test.data/json"
+	pb "github.com/1980243524/tinyrpc/test.data/message"
 	"github.com/stretchr/testify/assert"
-	"github.com/zehuamama/tinyrpc/compressor"
-	js "github.com/zehuamama/tinyrpc/test.data/json"
-	pb "github.com/zehuamama/tinyrpc/test.data/message"
 )
 
 func init() {

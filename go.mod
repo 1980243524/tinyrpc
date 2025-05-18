@@ -1,4 +1,4 @@
-module github.com/zehuamama/tinyrpc
+module github.com/1980243524/tinyrpc
 
 go 1.17
 
